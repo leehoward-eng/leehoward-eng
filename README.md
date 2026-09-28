@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Lee
 
-<!--
-**leehoward-eng/leehoward-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Podcaster. Plex enthusiast. Accidental developer.**
 
-Here are some ideas to get you started:
+I built [MyCouch](https://github.com/MyCouchApp/MyCouch) after tinkering with my Plex server got slightly out of hand.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MyCouch is a self-hosted Plex companion for exploring your library, viewing history, stats, and figuring out what to watch next.
+
+**Your media. Your history. What's next?**
+
+## What I'm messing with
+
+- MyCouch
+- Plex and media automation
+- Self-hosting
+- Podcasting
