@@ -24,10 +24,10 @@ open-source project. Apparently I make software now.
 
 ## Things I'm into
 
-- 🎙️ Podcasting — **The XboxCast**
-- 🎮 Xbox and gaming
-- 🛋️ Building **MyCouch**
-- 🎬 Plex and media automation
-- 🖥️ Self-hosting
-- 🏍️ Motorcycles
-- 🔧 Tinkering with things until they either work better or become a project
+- Podcasting — **The XboxCast**
+- Xbox and gaming
+- Building **MyCouch**
+- Plex and media automation
+- Self-hosting
+- Motorcycles
+- Tinkering with things until they either work better or become a project
